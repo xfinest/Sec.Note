@@ -1,29 +1,28 @@
 # Sec.Note
----------------------------------------------------------------------------------------------------------------------------------
-
-# This's first code in github.
+---------------------------------------------------------------------------
+## This's first code in github.
 print ('Hello World!')
 
-# Python 2.6 URL 
+## Python 2.6 URL 
 https://www.python.org/download/releases/2.6/ 
 
-# Python for Windows Extensions
+## Python for Windows Extensions
 https://sourceforge.net/projects/pywin32/files/pywin32/   
 https://github.com/mhammond/pywin32
 
-# [ShadowBroker]1：NSA 工具集 EternalBlue + Doublepulsar + meterpreter 渗透 Windows 7/2008/2003
+## [ShadowBroker]1：NSA 工具集 EternalBlue + Doublepulsar + meterpreter 渗透 Windows 7/2008/2003
 https://www.bennythink.com/shadowbroker.html
 
-# [ShadowBroker]2: NSA 工具集 EternalChampion 漏洞复现、ShellcodeBuffer
+## [ShadowBroker]2: NSA 工具集 EternalChampion 漏洞复现、ShellcodeBuffer
 https://www.bennythink.com/eternalchampion.html
 
-# ShadowBroker攻击框架FuzzBunch实战之EternalBlue
+## ShadowBroker攻击框架FuzzBunch实战之EternalBlue
 http://blog.csdn.net/counsellor/article/details/70214649
 
-# 内网安全——利用NSA Smbtouch批量检测内网
+## 内网安全——利用NSA Smbtouch批量检测内网
 http://blog.csdn.net/god_7z1/article/details/71076358
 
-# 信息安全工具汇总整理
+## 信息安全工具汇总整理
 
 https://wizardforcel.gitbooks.io/web-hacking-101/content/                  Web Hacking 101 中文版
 
@@ -43,7 +42,7 @@ https://github.com/qazbnm456/awesome-web-security                          Web�
 
 https://sec-wiki.com/                                                      sec-wiki安全维基百科
 
-# fuzz工具收集
+## fuzz工具收集
 
 https://github.com/ivanfratric/winafl
 
@@ -55,7 +54,7 @@ http://blog.topsec.com.cn/ad_lab/alphafuzzer/
 
 http://llvm.org/docs/LibFuzzer.html
 
-# 域名枚举
+## 域名枚举
 
 https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
 
@@ -81,11 +80,11 @@ https://github.com/code-scan/BroDomain (兄弟域名查询）
 
 https://github.com/chuhades/dnsbrute (基于dns查询的子域名枚举)
 
-# web应用扫描器
+## web应用扫描器
 
 http://github.com/Arachni/arachni   （web应用安全扫描器框架 http://www.arachni-scanner.com）
 
-# 数据库扫描、注入工具
+## 数据库扫描、注入工具
 
 https://github.com/sqlmapproject/sqlmap （注入工具之王sqlmap）
 
@@ -105,7 +104,7 @@ https://github.com/stampery/mongoaudit (MongoDB审计及渗透工具）
 
 https://github.com/commixproject/commix （注入点命令执行利用工具）
 
-# 弱口令或信息泄漏扫描
+## 弱口令或信息泄漏扫描
 
 https://github.com/lijiejie/htpwdScan (一个简单的HTTP暴力破解、撞库攻击脚本)
 
@@ -137,7 +136,7 @@ https://github.com/GDSSecurity/xxe-recursive-download  （xxe漏洞递归下载�
 
 https://buer.haus/xxegen/  （xxe在线生成利用工具）
 
-# 物联网设备扫描
+## 物联网设备扫描
 
 https://github.com/rapid7/IoTSeeker （物联网设备默认密码扫描检测工具)
 
@@ -151,7 +150,7 @@ https://github.com/scu-igroup/telnet-scanner (telnet服务密码撞库)
 
 https://github.com/RUB-NDS/PRET                 （打印机攻击框架）
 
-# XSS扫描
+## XSS扫描
 
 https://github.com/shawarkhanethicalhacker/BruteXSS （Cross-Site Scripting Bruteforcer）
 
@@ -173,7 +172,7 @@ https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资
 
 https://github.com/x0day/Multisearch-v2  (搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
 
-# webshell检测以及病毒分析工具
+## webshell检测以及病毒分析工具
 
 https://github.com/We5ter/Scanners-Box/tree/master/webshell/ （简单的php后门检测工具以及webshell样本库）
 
@@ -191,7 +190,7 @@ https://github.com/nbs-system/php-malware-finder (一款高效率PHP-webshell扫
 
 https://github.com/emposha/PHP-Shell-Detector/ (测试效率高达99%的webshell检测工具)
 
-# 内网安全渗透测试工具集
+## 内网安全渗透测试工具集
 
 https://github.com/0xwindows/VulScritp     （企业内网渗透脚本，包括banner扫描、端口扫描；各种通用漏洞利用等）
 
@@ -205,7 +204,7 @@ https://github.com/AlessandroZ/LaZagne    （本机密码查看提取工具）
 
 https://github.com/huntergregal/mimipenguin （linux密码抓取神器）
 
-# 端口扫描、指纹识别以及中间件扫描
+## 端口扫描、指纹识别以及中间件扫描
 
 https://nmap.org/download.html        (Nmap端口扫描器之王,https://svn.nmap.org/)
 
@@ -253,7 +252,7 @@ https://github.com/Nitr4x/whichCDN (CDN识别、检测）
 
 https://github.com/secfree/bcrpscan (基于爬虫的web路径扫描器)
 
-# 针对性漏洞测试工具
+## 针对性漏洞测试工具
 
 https://github.com/brianwrf/hackUtils （java反序列化利用工具集）
 
@@ -279,7 +278,7 @@ https://github.com/GoSecure/break-fast-serial （借助DNS解析来检测Java反
 
 https://github.com/dirtycow/dirtycow.github.io （脏牛提权漏洞exp）
 
-# 无线网络渗透、扫描
+## 无线网络渗透、扫描
 
 https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
 
@@ -287,7 +286,7 @@ https://github.com/m4n3dw0lf/PytheM （Python网络/渗透测试工具）
 
 https://github.com/P0cL4bs/WiFi-Pumpkin （无线安全渗透测试套件）
 
-# 代码静态扫描、代码运行栈跟踪
+## 代码静态扫描、代码运行栈跟踪
 
 https://github.com/exakat/php-static-analysis-tools （php静态扫描工具集）
 
@@ -309,7 +308,7 @@ https://github.com/ajinabraham/Mobile-Security-Framework-MobSF/    （app黑盒�
 
 https://github.com/alibaba/iOSSecAudit   （iOS安全审计）
 
-# 模块化扫描、综合扫描器
+## 模块化扫描、综合扫描器
 
 https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 
@@ -345,7 +344,7 @@ https://github.com/ywjt/Dshield  （DDOS防护）
 
 https://nim4.github.io/DBShield/ （Database firewall）
 
-# waf开源及规则：
+## waf开源及规则：
 
 https://github.com/xsec-lab/x-waf
 
